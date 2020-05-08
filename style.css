@@ -74,11 +74,6 @@ i:hover{
     transform: scale(1.1);
     transition: 0.2s ease-in-out;
 }
-/* #headingbuttons{
-    display: inline-block;
-    margin-left: 50px;
-
-} */
 .button1{
     font-size: 10px;
     padding-right: 10px;
@@ -113,86 +108,6 @@ i:hover{
 .fa{
     color: white;
 }
-/* #liheader2{
-    color: white;
-    border:0px solid;
-    border-radius: 20px;
-    background-color:rgb(49, 109, 195);
-    display: inline-block;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 13px;
-    padding-right: 13px;
-    font-size: 14px;
-    font-weight: 520;
-    position: relative;
-    top: 8px;
-}
-#ulnav{
-   margin-top: 5px;
-   margin-left: 50px;
-   
-}
-.li2header{
-    position: relative;
-    top: 8px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 13px;
-    padding-right: 13px;
-    display: inline-block;
-    font-size: 14px;
-    
-}
-.li2header:hover{
-    color: white;
-    border:0px solid;
-    border-radius: 20px;
-    background-color:rgb(49, 109, 195);
-    font-weight:520;
-    transition-property: color;
-    transition-duration: 0.5s;
-    transition-property: background;
-    transition-duration: 0.5s;
-    position: relative;
-    bottom: 16px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 13px;
-    padding-right: 13px;;
-  
-
-    
-}
-.image{
-    padding: 0px;
-    margin:0;
-    background-color: brown;
-    text-align: center;
-
-}
-
-.nv{
-    text-align: center;
-
-}
-@media screen and (max-width:768px){
-    .image>#imgs{
-        text-align: center;
-    }
-    .nv{
-        text-align: center;
-    
-    }
-    .nv>#ulnav{
-        margin-right:50px;
-    }
-} */
-
-
-/* NAVBAR SECTION CSS START */
-
-
 .navbar .navbar-nav{
     padding-right: 30px;
    
@@ -247,8 +162,6 @@ i:hover{
 padding-left: 40px;
 
 }
-
-
 .nav-link:hover{
     color: white!important;
     border:0px solid;
@@ -267,29 +180,6 @@ padding-left: 40px;
     padding-right: 13px;
 }
 
-/* .navbar .navbar-nav .nav-item .nav-link{
-    color: black;
-    border-radius: 50px;
-    width: 130px;
-    height: 40px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    margin-right: 10px;
-    font-weight: bold;
-    font-size: 15px;
-    transition: 0.5s ease-in-out;
-}
-.navbar .navbar-nav .nav-item .nav-link:hover{
-    background: blue;
-    color: white;
-    transition: 0.5s ease-in-out;
-}
-.navbar .navbar-nav .nav-item .active{
-    background-color: black;
-    color: white!important;
-} */
 .navbar .navbar-nav .dropdown-menu{
     display: none;
 }
@@ -300,42 +190,8 @@ padding-left: 40px;
 
 /* NAVBAR SECTION CSS START */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #imgs{
     margin-top: 10px;
-}
-/* @media only screen and (min-width:1200px){
-    /* .containerP{
-        width:1170px; */
-    
-    /* .image{
-        text-align: right;
-    }
-    .image>img{
-        margin-right: 15px;
-    }
-    .nv>ul{
-        margin-left:110px;
-    } */
-@media  screen and (max-width:1920px){
-    /* .image>#imgs{
-        margin-left: 150px;
-    }
-    .nv>#ulnav{
-        margin-left: 150px;
-    } */
 }
 #bodyimg{
     
@@ -401,8 +257,7 @@ h6{
 font-weight: bold;
 }
 .C2 {
-    text-align: center;
-    
+    text-align: center;  
 }
 
 .div2{
@@ -410,15 +265,6 @@ margin-top: 50px;
 margin-bottom: 50px;
 
 }
-
-/* @keyframes container1{
-   0%{opacity:0}
-   25%{opacity:0.25}
-   50%{opacity:0.5}
-75%{opacity:0.75}
-100%{opacity: 1;}  
-
-} */ 
 .divshadow{
     padding-top: 25px;
     padding-bottom: 25px;
@@ -578,36 +424,6 @@ font-size:50px;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media(max-width:992px){
     .firstcol{
     text-align: center;
@@ -660,4 +476,4 @@ font-size:50px;
         border-radius: 0px;
         border: none;
     }
-} */
+} *
